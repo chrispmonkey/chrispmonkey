@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/banner.svg" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm chrispmonkey</h1>
@@ -65,5 +65,5 @@
   Notes:
   - Replace placeholders (project links, Twitter, Website, Apple Music URL) with real links.
   - For a dynamic Now Playing card from Apple Music, provide access to a third-party generator or scrobble to Last.fm and I'll wire it in.
-  - To change banner, replace assets/banner.svg with a custom image (GIFs and PNGs work too).
+  - To change banner, replace https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/banner.svg with a custom image (GIFs and PNGs work too).
 -->
