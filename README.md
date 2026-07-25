@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/banner.svg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/banner.svg" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm chrispmonkey</h1>
@@ -32,7 +32,7 @@
 </p>
 
 ## 🔭 Featured Projects
-- [Your-repo](https://github.com/chrispmonkey/your-repo) — Replace with your project
+
 
 ## 🎧 Listening
 <p align="center">
@@ -54,8 +54,8 @@
 
 ## 📫 Connect
 - GitHub: https://github.com/chrispmonkey
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  <!-- Replace with your handle -->
-- Website: https://yourwebsite.com  <!-- Replace with your website -->
+- Twitter: https://twitter.com/Chrispmonkey  <!-- Replace with your handle -->
+- LinkedIn: https://www.linkedin.com/in/chrisprice2015/  <!-- Replace with your website -->
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=chrispmonkey.chrispmonkey" />
@@ -65,5 +65,5 @@
   Notes:
   - Replace placeholders (project links, Twitter, Website, Apple Music URL) with real links.
   - For a dynamic Now Playing card from Apple Music, provide access to a third-party generator or scrobble to Last.fm and I'll wire it in.
-  - To change banner, replace https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/banner.svg with a custom image (GIFs and PNGs work too).
+  - To change banner, replace https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/banner.svg with a custom image (GIFs and PNGs work too).
 -->
