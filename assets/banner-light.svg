@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Chris Price — Head of Business Development, AI and DePIN at Aptos Labs">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891B2"/>
+      <stop offset="0.55" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0891B2" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#0D1117" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="1200" height="320" fill="#FFFFFF"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="150" rx="330" ry="230" fill="url(#glowA)"/>
+  <ellipse cx="1155" cy="255" rx="260" ry="190" fill="url(#glowB)"/>
+
+  <!-- faint background lattice (left) -->
+  <g stroke="#57606A" stroke-opacity="0.18" stroke-width="1" fill="none">
+    <path d="M120 60 L210 40 M120 60 L60 282 M420 55 L660 70 M300 285 L520 292 M660 70 L700 272 M210 40 L420 55"/>
+  </g>
+  <g fill="#57606A" fill-opacity="0.28">
+    <circle cx="120" cy="60" r="2.5"/><circle cx="210" cy="40" r="2"/>
+    <circle cx="60" cy="282" r="2"/><circle cx="300" cy="285" r="2.5"/>
+    <circle cx="420" cy="55" r="2"/><circle cx="520" cy="292" r="2"/>
+    <circle cx="660" cy="70" r="2.5"/><circle cx="700" cy="272" r="2"/>
+  </g>
+
+  <!-- ── network cluster (right) ── -->
+  <g stroke="url(#accent)" stroke-width="1.25" fill="none" stroke-opacity="0.5">
+    <path d="M880 80 L975 55"><animate attributeName="stroke-opacity" values="0.3;0.75;0.3" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M975 55 L1075 95"><animate attributeName="stroke-opacity" values="0.7;0.28;0.7" dur="7s" repeatCount="indefinite"/></path>
+    <path d="M880 80 L955 140"><animate attributeName="stroke-opacity" values="0.35;0.8;0.35" dur="5.5s" repeatCount="indefinite"/></path>
+    <path d="M975 55 L955 140"><animate attributeName="stroke-opacity" values="0.65;0.26;0.65" dur="8s" repeatCount="indefinite"/></path>
+    <path d="M1075 95 L1140 140"><animate attributeName="stroke-opacity" values="0.3;0.72;0.3" dur="6.5s" repeatCount="indefinite"/></path>
+    <path d="M1075 95 L1055 185"><animate attributeName="stroke-opacity" values="0.6;0.26;0.6" dur="7.5s" repeatCount="indefinite"/></path>
+    <path d="M855 165 L955 140"><animate attributeName="stroke-opacity" values="0.33;0.76;0.33" dur="6.2s" repeatCount="indefinite"/></path>
+    <path d="M955 140 L1055 185"><animate attributeName="stroke-opacity" values="0.7;0.3;0.7" dur="5.8s" repeatCount="indefinite"/></path>
+    <path d="M1055 185 L1140 140"><animate attributeName="stroke-opacity" values="0.35;0.7;0.35" dur="7.2s" repeatCount="indefinite"/></path>
+    <path d="M855 165 L890 245"><animate attributeName="stroke-opacity" values="0.65;0.28;0.65" dur="6.8s" repeatCount="indefinite"/></path>
+    <path d="M955 140 L990 235"><animate attributeName="stroke-opacity" values="0.31;0.74;0.31" dur="8.4s" repeatCount="indefinite"/></path>
+    <path d="M1055 185 L990 235"><animate attributeName="stroke-opacity" values="0.68;0.3;0.68" dur="6.6s" repeatCount="indefinite"/></path>
+    <path d="M990 235 L1095 262"><animate attributeName="stroke-opacity" values="0.35;0.72;0.35" dur="7.8s" repeatCount="indefinite"/></path>
+    <path d="M1055 185 L1095 262"><animate attributeName="stroke-opacity" values="0.6;0.26;0.6" dur="5.9s" repeatCount="indefinite"/></path>
+    <path d="M880 80 L855 165"><animate attributeName="stroke-opacity" values="0.29;0.7;0.29" dur="7.1s" repeatCount="indefinite"/></path>
+    <path d="M890 245 L990 235"><animate attributeName="stroke-opacity" values="0.66;0.28;0.66" dur="6.4s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- node halos -->
+  <g fill="url(#accent)" opacity="0.22" filter="url(#soft)">
+    <circle cx="955" cy="140" r="9"/><circle cx="1055" cy="185" r="8"/><circle cx="975" cy="55" r="7"/>
+  </g>
+
+  <!-- nodes -->
+  <g fill="#FFFFFF" stroke="url(#accent)" stroke-width="2">
+    <circle cx="880" cy="80" r="4.5"><animate attributeName="r" values="4.5;6;4.5" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="975" cy="55" r="5.5"><animate attributeName="r" values="5.5;7.5;5.5" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1075" cy="95" r="4.5"><animate attributeName="r" values="4.5;6;4.5" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="855" cy="165" r="4"><animate attributeName="r" values="4;5.5;4" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle cx="955" cy="140" r="7"><animate attributeName="r" values="7;9.5;7" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1055" cy="185" r="6"><animate attributeName="r" values="6;8;6" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="140" r="4"><animate attributeName="r" values="4;5.5;4" dur="5.8s" repeatCount="indefinite"/></circle>
+    <circle cx="890" cy="245" r="4.5"><animate attributeName="r" values="4.5;6;4.5" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="990" cy="235" r="5.5"><animate attributeName="r" values="5.5;7;5.5" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1095" cy="262" r="4"><animate attributeName="r" values="4;5.5;4" dur="4.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- data packets in flight -->
+  <g fill="#0891B2">
+    <circle r="2.6" opacity="0.9">
+      <animateMotion dur="2.6s" repeatCount="indefinite" path="M880 80 L955 140 L1055 185 L1095 262"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.4" opacity="0.9" fill="#7C3AED">
+      <animateMotion dur="3.4s" begin="0.8s" repeatCount="indefinite" path="M1075 95 L1140 140 L1055 185 L990 235"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.4" opacity="0.9" fill="#6366F1">
+      <animateMotion dur="3s" begin="1.6s" repeatCount="indefinite" path="M855 165 L890 245 L990 235 L955 140"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" opacity="0.9">
+      <animateMotion dur="2.8s" begin="2.1s" repeatCount="indefinite" path="M975 55 L1075 95 L1055 185"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ── type ── -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">
+    <text x="70" y="128" font-size="64" font-weight="700" fill="#0D1117" letter-spacing="-1">Chris Price</text>
+
+    <rect x="72" y="150" width="240" height="3" rx="1.5" fill="url(#rule)"/>
+
+    <text x="72" y="186" font-size="15.5" font-weight="600" letter-spacing="2.6"
+          font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" fill="#0891B2">HEAD OF BD, AI &amp; DePIN
+      <tspan fill="#8C959F"> // </tspan><tspan fill="#7C3AED">APTOS LABS</tspan>
+    </text>
+
+    <text x="72" y="226" font-size="21" fill="#424A53">I close the deal — then I build the integration.</text>
+
+    <text x="72" y="264" font-size="13" letter-spacing="1.4"
+          font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" fill="#6E7781">
+      San Francisco · Rust · Move · TypeScript · Swift · Python
+    </text>
+  </g>
+</svg>
