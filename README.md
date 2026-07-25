@@ -34,6 +34,21 @@
 ## 🔭 Featured Projects
 - [Your-repo](https://github.com/chrispmonkey/your-repo) — Replace with your project
 
+## 🎧 Listening
+<p align="center">
+  <!-- Apple Music badge: replace YOUR_AM_PROFILE_URL with your Apple Music profile or playlist link -->
+  <a href="https://music.apple.com/">
+    <img src="https://img.shields.io/badge/Apple%20Music-Listen-black?logo=apple&logoColor=white" alt="Apple Music" />
+  </a>
+</p>
+
+<p>
+  Want a live "Now Playing" card for Apple Music? Two options:
+  1) Scrobble Apple Music to Last.fm (apps/plugins exist) and use a Last.fm now-playing image.
+  2) Use a third-party service that generates an embeddable image from Apple Music (may require tokens).
+  Contact to set up live integration — otherwise the badge above links directly to Apple Music.
+</p>
+
 ## 🧰 Tech & Tools
 <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Docker</code>
 
@@ -47,8 +62,8 @@
 </p>
 
 <!--
-  Notes for you:
-  - Replace placeholders (Twitter, Website) with real links.
-  - To personalize further: add WakaTime, Spotify widgets, custom GIFs in assets/, or enable pinned repos on your profile.
-  - To change banner, replace assets/banner.svg with a custom image (GIFs and PNGs work too).  Drag-and-drop to this repo or push via gh cli.
+  Notes:
+  - Replace placeholders (project links, Twitter, Website, Apple Music URL) with real links.
+  - For a dynamic Now Playing card from Apple Music, provide access to a third-party generator or scrobble to Last.fm and I'll wire it in.
+  - To change banner, replace assets/banner.svg with a custom image (GIFs and PNGs work too).
 -->
