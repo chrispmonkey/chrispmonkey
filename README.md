@@ -44,10 +44,8 @@ Everything below is publicly announced Aptos work. Most of my day-to-day lives i
 
 | Product | What it is |
 |:--|:--|
-| **[Decibel](https://decibel.trade)** | Fully onchain CLOB perpetuals exchange — matching onchain, not just settlement, on sub-40ms blocks. Crypto and real-world-asset perps from one cross-margin account. Live Feb 2026, **$1B+ cumulative volume**. |
 | **[Shelby](https://shelby.xyz)** | Cloud-grade decentralized hot storage, co-built with Jump Crypto. Sub-second reads, pay-per-view access, built for data-heavy AI agent workloads. |
 | **[Geomi](https://geomi.dev)** | Developer platform for Aptos — API keys in seconds, no-code indexers, gas sponsorship, one-click NFT collections. |
-| **[Petra](https://petra.app)** | The flagship Aptos wallet. |
 
 Alongside that: agentic coding tooling, zero-knowledge identity, confidential compute, and Move smart contract infrastructure.
 
@@ -57,11 +55,11 @@ My own studio, where I build and ship full products end to end. These repos are 
 
 | Product | What it is |
 |:--|:--|
+| **[Watchee](https://watcheeos.com)** | Decentralized streaming platform: consumer app, mini-app developer portal, and rights management for studios and distributors. |
 | **[Tkay](https://tkay.app)** | *Make that idea happen.* Capture something you learned, connect it to your real work, and a small crew — Scout, Maker, Checker — tries it safely so you keep only what works. [iOS beta on TestFlight](https://testflight.apple.com/join/u18EdQhh). |
 | **[CivicChange](https://civicchange.app)** | *What's happening here?* Point your camera at a building in San Francisco and get the story from the city's public records, in plain language. Expo, Supabase, DataSF, 8 languages. |
 | **PluckIt** | A reusable-content launcher: capture anything you'll need again, and PluckIt understands it, makes it searchable, and gets it back out in seconds. iOS, Android and desktop. Pre-release. |
 | **[Vessel](https://vessel-website.vercel.app)** | Practice-management and documentation software for licensed therapists, with a between-session reflection app for the clients they invite. |
-| **Watchee** | Decentralized streaming platform: consumer app, mini-app developer portal, and rights management for studios and distributors. |
 
 ### Hacking the Humane AI Pin — [PenumbraOS](https://github.com/PenumbraOS)
 
