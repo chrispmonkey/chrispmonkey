@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris_Price-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisprice2015/) [![X](https://img.shields.io/badge/X-@chrispmonkey-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chrispmonkey) [![UpLevel](https://img.shields.io/badge/UpLevel-uplevel.llc-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.uplevel.llc) [![Email](https://img.shields.io/badge/Email-chris@uplevel.llc-22D3EE?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:chris@uplevel.llc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris_Price-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisprice2015/) [![X](https://img.shields.io/badge/X-@chrispmonkey-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chrispmonkey) [![UpLevel](https://img.shields.io/badge/UpLevel-uplevel.llc-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.uplevel.llc)
 
 </div>
 
@@ -29,7 +29,7 @@ It's a strange combination on paper. In practice it's the whole advantage: I can
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/stats-light.svg">
-  <img alt="Contribution velocity: 3,687 contributions in 2026, 4,844 lifetime, 729 pull requests" src="https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/stats-dark.svg" width="92%">
+  <img alt="Contribution velocity: yearly GitHub contributions since 2019, refreshed daily" src="https://raw.githubusercontent.com/chrispmonkey/chrispmonkey/main/assets/stats-dark.svg" width="92%">
 </picture>
 <br><br>
 </div>
@@ -51,7 +51,26 @@ Everything below is publicly announced Aptos work. Most of my day-to-day lives i
 
 Alongside that: agentic coding tooling, zero-knowledge identity, confidential compute, and Move smart contract infrastructure.
 
-I also run **[UpLevel Technologies](https://www.uplevel.llc)**, a small studio building outcomes-focused software for clients.
+### On the side — [UpLevel Technologies](https://www.uplevel.llc)
+
+My own studio, where I build and ship full products end to end. These repos are private, but the products are real:
+
+| Product | What it is |
+|:--|:--|
+| **[Tkay](https://tkay.app)** | *Make that idea happen.* Capture something you learned, connect it to your real work, and a small crew — Scout, Maker, Checker — tries it safely so you keep only what works. [iOS beta on TestFlight](https://testflight.apple.com/join/u18EdQhh). |
+| **[CivicChange](https://civicchange.app)** | *What's happening here?* Point your camera at a building in San Francisco and get the story from the city's public records, in plain language. Expo, Supabase, DataSF, 8 languages. |
+| **PluckIt** | A reusable-content launcher: capture anything you'll need again, and PluckIt understands it, makes it searchable, and gets it back out in seconds. iOS, Android and desktop. Pre-release. |
+| **[Vessel](https://vessel-website.vercel.app)** | Practice-management and documentation software for licensed therapists, with a between-session reflection app for the clients they invite. |
+| **Watchee** | Decentralized streaming platform: consumer app, mini-app developer portal, and rights management for studios and distributors. |
+
+### Hacking the Humane AI Pin — [PenumbraOS](https://github.com/PenumbraOS)
+
+When Humane shut down the AI Pin's servers, the community behind PenumbraOS set out to keep the device alive. I'm contributing to it, mostly around **music**:
+
+- **Music provider plugin system** — a stable Rust ABI so the Pin's server can load streaming providers as plugins, plus a starter template so anyone can add their own. I wrote providers for **Apple Music, Spotify, Tidal, YouTube Music and Mopidy**.
+- **Upstream PRs** to [`humane-system-hook`](https://github.com/PenumbraOS/humane-system-hook) and [`center`](https://github.com/PenumbraOS/center): [redirecting the Pin's music app to a local Tidal mock](https://github.com/PenumbraOS/humane-system-hook/pull/8) (merged), [the music provider seam](https://github.com/PenumbraOS/humane-system-hook/pull/11), and [provider settings and login UIs](https://github.com/PenumbraOS/center/pull/2).
+
+PenumbraOS itself is [Adam Gastineau](https://github.com/agg23)'s project; the plugin repos are mine and private for now.
 
 ---
 
@@ -90,23 +109,18 @@ The through-line: I go where the platform shift is happening, early, and I learn
 
 **AI & agents** &nbsp; ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-4A5568?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Spatial & mobile** &nbsp; ![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white) ![Spark AR](https://img.shields.io/badge/Spark_AR-0081FB?style=flat-square&logo=meta&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+**Spatial & mobile** &nbsp; ![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white) ![Spark AR](https://img.shields.io/badge/Spark_AR-0081FB?style=flat-square&logo=meta&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ---
 
-## From the archive
+## Earlier work
 
-Fair warning: **my public repos are not my current work.** Everything I ship now lives in private org repos — the stat card above counts that work, but you can't browse it. What's public here is mostly old, and I'd rather show you the real thing than dress up a fork.
-
-These are the ones I actually wrote, start to finish:
+My current code is in private repos, which the stat card above counts. The public ones worth a look are from the start:
 
 | Year | Project | What it was |
 |:--|:--|:--|
-| 2017 | [PokeDown](https://github.com/chrispmonkey/PokeDown) · [Tippy](https://github.com/chrispmonkey/Tippy) | Swift/iOS utilities — cooldown math and a tip calculator |
 | 2015 | [iAttendance](https://github.com/chrispmonkey/iAttendance) | Class attendance via **iBeacons + TouchID** — biometric proximity check-in, built the year Apple shipped the API |
-| 2015 | [Fury](https://github.com/chrispmonkey/Fury) | Microsoft *hACTOthon* entry — an account-management assistant that ranked next-best actions for a rep from customer signals and news. Recommender-shaped product work, a decade before it was fashionable |
-
-The rest of the account is forks and scratch repos from a career of taking things apart. I've left them public on purpose.
+| 2015 | [Fury](https://github.com/chrispmonkey/Fury) | Microsoft *hACTOthon* entry — an account-management assistant that ranked next-best actions for a rep from customer signals and news |
 
 ---
 
@@ -114,12 +128,12 @@ The rest of the account is forks and scratch repos from a career of taking thing
 
 I'm not looking, but I'll always hear out something genuinely interesting — especially at the intersection of **AI agents, DePIN, and onchain infrastructure**, where the work is equal parts partnership strategy and shipping code.
 
-The fastest way to reach me is **[chris@uplevel.llc](mailto:chris@uplevel.llc)**.
+The fastest way to reach me is **[LinkedIn](https://www.linkedin.com/in/chrisprice2015/)** or a DM on **[X](https://x.com/chrispmonkey)**.
 
 <div align="center">
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisprice2015/) [![Email](https://img.shields.io/badge/Email-chris@uplevel.llc-22D3EE?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:chris@uplevel.llc)
+[![LinkedIn](https://img.shields.io/badge/Let's_talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisprice2015/) [![X](https://img.shields.io/badge/DM-@chrispmonkey-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chrispmonkey)
 
 <br>
 <sub>San Francisco, CA</sub>
