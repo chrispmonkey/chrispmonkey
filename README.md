@@ -61,6 +61,7 @@ My own studio, where I build and ship full products end to end. These repos are 
 | **[PluckIt](https://pluckitapp.com)** | A reusable-content launcher: capture anything you'll need again, and PluckIt understands it, makes it searchable, and gets it back out in seconds. iOS, Android and desktop. Pre-release. |
 | **[Vessel](https://vessel-website.vercel.app)** | Practice-management and documentation software for licensed therapists, with a between-session reflection app for the clients they invite. |
 | **[Qookin](https://qookin.com)** | *Show it a reference, watch it build the real thing.* Drop in a photo, a clip, a finished edit or a web page, and Qookin rebuilds it from scratch in Blender, Photoshop, Illustrator, After Effects, Premiere Pro or REAPER, in the app's own window. Live text, real vectors, real geometry, native keyframes. Early access. |
+| **[ZyloPay](https://www.zylopay.com)** | *Global on-chain payments.* NFC tap-to-pay from Apple Wallet or Google Wallet, settling in USDC on Monad in under a second. 0.50% merchant fees, no chargebacks, no gas for shoppers. |
 
 ### Hacking the Humane AI Pin — [PenumbraOS](https://github.com/PenumbraOS)
 
