@@ -62,6 +62,10 @@ My own studio, where I build and ship full products end to end. These repos are 
 | **[Vessel](https://vessel-website.vercel.app)** | Practice-management and documentation software for licensed therapists, with a between-session reflection app for the clients they invite. |
 | **[Qookin](https://qookin.com)** | *Show it a reference, watch it build the real thing.* Drop in a photo, a clip, a finished edit or a web page, and Qookin rebuilds it from scratch in Blender, Photoshop, Illustrator, After Effects, Premiere Pro or REAPER, in the app's own window. Live text, real vectors, real geometry, native keyframes. Early access. |
 | **[ZyloPay](https://www.zylopay.com)** | *Global on-chain payments.* NFC tap-to-pay from Apple Wallet or Google Wallet, settling in USDC on Monad in under a second. 0.50% merchant fees, no chargebacks, no gas for shoppers. |
+| **[AirFrens](https://airfrens.com)** | Social network meets AR and digital collectibles: connect with Frens, share and show off collectibles, and earn from your content. iOS, Android and web. |
+| **[SympleLeases](https://sympleleases.com)** | *Rentals, made simple.* One platform for STR hosts, landlords, property managers, renters and local service pros: lease documents, rent collection, bookings, maintenance and payments in one place. |
+| **[VIP Guest Guide](https://www.vipguestguide.com)** | *The stay guide that answers back.* An AI-native guest guide for short-term rentals, with the host's favorites in the host's tone, available 24/7, and graceful when it doesn't know. |
+| **[Bit3 Wallet](https://www.bit3wallet.com)** | *Secure, fast and fun.* A self-custody Aptos wallet with customizable themes; transactions in under a second for a fraction of a cent. |
 
 ### Hacking the Humane AI Pin — [PenumbraOS](https://github.com/PenumbraOS)
 
