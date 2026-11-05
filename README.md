@@ -57,7 +57,8 @@ My own studio, where I build and ship full products end to end. These repos are 
 | Product | What it is |
 |:--|:--|
 | **[Tkay](https://tkay.app)** | *Make that idea happen.* Capture something you learned, connect it to your real work, and a small crew — Scout, Maker, Checker — tries it safely so you keep only what works. [iOS beta on TestFlight](https://testflight.apple.com/join/u18EdQhh). |
-| **[CivicChange](https://civicchange.app)** | *What's happening here?* Point your camera at a building in San Francisco and get the story from the city's public records, in plain language. Expo, Supabase, DataSF, 8 languages. |
+| **[CivicChange](https://civicchange.app)** | *What's happening here?* Point your camera at a building in San Francisco and get the story from the city's public records, in plain language. Expo, Supabase, DataSF, 8 languages. **[Live on the App Store](https://apps.apple.com/us/app/civicchange/id6826119277).** |
+| **[M1rror](https://m1rror.com)** | A design agent: bring references, a repository or a live site, and it builds your design system and every screen and state — and shows the price before it starts work. |
 | **[PluckIt](https://pluckitapp.com)** | A reusable-content launcher: capture anything you'll need again, and PluckIt understands it, makes it searchable, and gets it back out in seconds. iOS, Android and desktop. Pre-release. |
 | **[Vessel](https://vessel-website.vercel.app)** | Practice-management and documentation software for licensed therapists, with a between-session reflection app for the clients they invite. |
 | **[Qookin](https://qookin.com)** | *Show it a reference, watch it build the real thing.* Drop in a photo, a clip, a finished edit or a web page, and Qookin rebuilds it from scratch in Blender, Photoshop, Illustrator, After Effects, Premiere Pro or REAPER, in the app's own window. Live text, real vectors, real geometry, native keyframes. Early access. |
